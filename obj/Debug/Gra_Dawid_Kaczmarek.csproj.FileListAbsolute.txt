@@ -1,0 +1,19 @@
+C:\Users\Dawid\source\repos\Gra_Dawid_Kaczmarek\Gra_Dawid_Kaczmarek\bin\Debug\Gra_Dawid_Kaczmarek.exe.config
+C:\Users\Dawid\source\repos\Gra_Dawid_Kaczmarek\Gra_Dawid_Kaczmarek\bin\Debug\Gra_Dawid_Kaczmarek.exe
+C:\Users\Dawid\source\repos\Gra_Dawid_Kaczmarek\Gra_Dawid_Kaczmarek\bin\Debug\Gra_Dawid_Kaczmarek.pdb
+C:\Users\Dawid\source\repos\Gra_Dawid_Kaczmarek\Gra_Dawid_Kaczmarek\obj\Debug\Gra_Dawid_Kaczmarek.csprojAssemblyReference.cache
+C:\Users\Dawid\source\repos\Gra_Dawid_Kaczmarek\Gra_Dawid_Kaczmarek\obj\Debug\Gra_Dawid_Kaczmarek.Properties.Resources.resources
+C:\Users\Dawid\source\repos\Gra_Dawid_Kaczmarek\Gra_Dawid_Kaczmarek\obj\Debug\Gra_Dawid_Kaczmarek.csproj.GenerateResource.cache
+C:\Users\Dawid\source\repos\Gra_Dawid_Kaczmarek\Gra_Dawid_Kaczmarek\obj\Debug\Gra_Dawid_Kaczmarek.exe
+C:\Users\Dawid\source\repos\Gra_Dawid_Kaczmarek\Gra_Dawid_Kaczmarek\obj\Debug\Gra_Dawid_Kaczmarek.pdb
+C:\Users\Dawid\source\repos\Gra_Dawid_Kaczmarek\Gra_Dawid_Kaczmarek\obj\Debug\Gra_Dawid_Kaczmarek.Form1.resources
+E:\Nowy folder\Programowanie\Gierka, kółko i krzyżyk (windows forms)\Gra_Dawid_Kaczmarek\Gra_Dawid_Kaczmarek\bin\Debug\Gra_Dawid_Kaczmarek.exe.config
+E:\Nowy folder\Programowanie\Gierka, kółko i krzyżyk (windows forms)\Gra_Dawid_Kaczmarek\Gra_Dawid_Kaczmarek\bin\Debug\Gra_Dawid_Kaczmarek.exe
+E:\Nowy folder\Programowanie\Gierka, kółko i krzyżyk (windows forms)\Gra_Dawid_Kaczmarek\Gra_Dawid_Kaczmarek\bin\Debug\Gra_Dawid_Kaczmarek.pdb
+E:\Nowy folder\Programowanie\Gierka, kółko i krzyżyk (windows forms)\Gra_Dawid_Kaczmarek\Gra_Dawid_Kaczmarek\obj\Debug\Gra_Dawid_Kaczmarek.csprojAssemblyReference.cache
+E:\Nowy folder\Programowanie\Gierka, kółko i krzyżyk (windows forms)\Gra_Dawid_Kaczmarek\Gra_Dawid_Kaczmarek\obj\Debug\Gra_Dawid_Kaczmarek.Form1.resources
+E:\Nowy folder\Programowanie\Gierka, kółko i krzyżyk (windows forms)\Gra_Dawid_Kaczmarek\Gra_Dawid_Kaczmarek\obj\Debug\Gra_Dawid_Kaczmarek.Properties.Resources.resources
+E:\Nowy folder\Programowanie\Gierka, kółko i krzyżyk (windows forms)\Gra_Dawid_Kaczmarek\Gra_Dawid_Kaczmarek\obj\Debug\Gra_Dawid_Kaczmarek.csproj.GenerateResource.cache
+E:\Nowy folder\Programowanie\Gierka, kółko i krzyżyk (windows forms)\Gra_Dawid_Kaczmarek\Gra_Dawid_Kaczmarek\obj\Debug\Gra_Dawid_Kaczmarek.csproj.CoreCompileInputs.cache
+E:\Nowy folder\Programowanie\Gierka, kółko i krzyżyk (windows forms)\Gra_Dawid_Kaczmarek\Gra_Dawid_Kaczmarek\obj\Debug\Gra_Dawid_Kaczmarek.exe
+E:\Nowy folder\Programowanie\Gierka, kółko i krzyżyk (windows forms)\Gra_Dawid_Kaczmarek\Gra_Dawid_Kaczmarek\obj\Debug\Gra_Dawid_Kaczmarek.pdb
